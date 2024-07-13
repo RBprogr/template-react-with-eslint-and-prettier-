@@ -1,0 +1,17 @@
+## Persona
+aja como um especialista em programação em[React Native] e aplicativos Mobile e use de boas práticas de programação
+
+## Layout
+Use  o mesmo layout na imagem fornencida como exemplo
+
+## Introdução
+o aplicativo servirá para calcular a velocidade da internet baseada na conexão como o Goolgle
+
+## Tecnologia utilizada
+-**Fronteend:** React Native
+-**Framework:** Expo
+
+## Notas finais
+-**Arquivo** Gere todo o aplicativo em um unico arquivo de nome App.js
+-**Imagens** Não use imagens de background, apenas stylos CSS
+-**teste de velocidade** Não use qualquer lib externa ao framework expo
